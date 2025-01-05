@@ -57,3 +57,33 @@
 </div>
 
 ###
+
+<!-- Add some cool animations -->
+<div align="center">
+  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/animation.gif" alt="Cool Animation" />
+</div>
+
+<!-- Add a dynamic quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
+</div>
+
+<!-- Add a visitor counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AhmedAshraf2288/count.svg" alt="Visitor Count" />
+</div>
+
+<!-- Add a GitHub activity graph -->
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AhmedAshraf2288&theme=radical" alt="GitHub Activity Graph" />
+</div>
+
+<!-- Add a GitHub trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAshraf2288&theme=radical" alt="GitHub Trophy" />
+</div>
+
+<!-- Add a GitHub profile summary -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedAshraf2288&theme=radical" alt="GitHub Profile Summary" />
+</div>
