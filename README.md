@@ -170,6 +170,4 @@
 
 <!-- Add a GitHub profile stars received -->
 <div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/stars-received.svg" alt="GitHub Profile Stars Received" />
-</div>
-
+  <img src="https://github.com/AhmedAsh
