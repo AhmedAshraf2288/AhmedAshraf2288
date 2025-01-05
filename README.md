@@ -53,7 +53,11 @@
 <h3 align="center">🌟 Let's Build Something Amazing Together! 🌟</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedAshraf2288/AhmedAshraf2288/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/github-snake.svg" />
+  </picture>
 </div>
 
 ###
@@ -161,20 +165,4 @@
 <!-- Add a GitHub profile followers received -->
 <div align="center">
   <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/followers-received.svg" alt="GitHub Profile Followers Received" />
-</div>
-
-<!-- Add a GitHub profile followers given -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/followers-given.svg" alt="GitHub Profile Followers Given" />
-</div>
-
-<!-- Add a GitHub profile stars received -->
-<div align="center">
-  <img src="https://github.com/AhmedAsh
-
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</
