@@ -36,10 +36,7 @@
 
 ###
 
-<h3 align="left">🔥 My GitHub Streak:</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedAshraf2288&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 ###
 
