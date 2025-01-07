@@ -68,9 +68,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedAshraf2288&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
-<!-- Add a GitHub contributions calendar -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/contributions.svg" alt="GitHub Contributions Calendar" />
-</div>
+
 
 
