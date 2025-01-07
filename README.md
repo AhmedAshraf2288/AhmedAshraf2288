@@ -50,10 +50,6 @@
   <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/animation.gif" alt="Cool Animation" />
 </div>
 
-<!-- Add a dynamic quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
-</div>
 
 <!-- Add a visitor counter -->
 <div align="center">
