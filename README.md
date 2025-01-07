@@ -145,6 +145,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AhmedAshraf2288/AhmedAshraf2288/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AhmedAshraf2288/AhmedAshraf2288/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
