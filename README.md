@@ -60,10 +60,6 @@
   <img src="https://profile-counter.glitch.me/AhmedAshraf2288/count.svg" alt="Visitor Count" />
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AhmedAshraf2288&theme=radical" alt="GitHub Activity Graph" />
-</div>
 
 <!-- GitHub Trophy -->
 <div align="center">
