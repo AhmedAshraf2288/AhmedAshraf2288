@@ -75,11 +75,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedAshraf2288&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
-<!-- GitHub Contributions Calendar -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/contributions.svg" alt="GitHub Contributions Calendar" />
-</div>
-
-<!-- Snake Animation -->
-<br clear="both">
-<img src="https://raw.githubusercontent.com/AhmedAshraf2288/AhmedAshraf2288/output/snake.svg" alt="Snake animation" />
