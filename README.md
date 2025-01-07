@@ -52,11 +52,6 @@
 </div>
 
 
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AhmedAshraf2288/count.svg" alt="Visitor Count" />
-</div>
-
 
 <!-- GitHub Trophy -->
 <div align="center">
