@@ -50,10 +50,6 @@
   <img src="https://profile-counter.glitch.me/AhmedAshraf2288/count.svg" alt="Visitor Count" />
 </div>
 
-<!-- Add a GitHub activity graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AhmedAshraf2288&theme=radical" alt="GitHub Activity Graph" />
-</div>
 
 <!-- Add a GitHub trophy -->
 <div align="center">
