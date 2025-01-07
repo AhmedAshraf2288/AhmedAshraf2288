@@ -45,9 +45,10 @@
 
 <h3 align="center">🌟 Let's Build Something Amazing Together! 🌟</h3>
 
-<!-- Cool Animation -->
+
+<!-- Dynamic Quote -->
 <div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/animation.gif" alt="Cool Animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
 </div>
 
 
