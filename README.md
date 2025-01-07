@@ -45,10 +45,7 @@
 
 
 
-<!-- Add a visitor counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AhmedAshraf2288/count.svg" alt="Visitor Count" />
-</div>
+
 
 
 <!-- Add a GitHub trophy -->
