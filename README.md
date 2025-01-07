@@ -45,10 +45,7 @@
 
 <h3 align="center">🌟 Let's Build Something Amazing Together! 🌟</h3>
 
-<!-- Add some cool animations -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/animation.gif" alt="Cool Animation" />
-</div>
+
 
 
 <!-- Add a visitor counter -->
