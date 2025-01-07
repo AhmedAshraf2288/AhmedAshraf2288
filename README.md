@@ -140,6 +140,7 @@
   <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/stars-received.svg" alt="GitHub Profile Stars Received" />
 </div>
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
 <!-- Add a GitHub profile stars given -->
 <div align="center">
   <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/stars-given.svg" alt="GitHub Profile Stars Given" />
