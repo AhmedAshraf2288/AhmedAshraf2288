@@ -1,20 +1,9 @@
 <h1 align="center">Hi there 👋!</h1>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedAshraf2288.AhmedAshraf2288&left_color=mediumaquamarine&right_color=darkorange&left_text=Profile%20View" />
-</div>
-
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">My name is <strong>Ahmed Ashraf</strong> and I'm a passionate Frontend Developer with a love for creating beautiful and functional web applications.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAshraf2288&show_icons=true&theme=radical" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAshraf2288&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
 
 ###
 
@@ -43,126 +32,4 @@
 
 ###
 
-<h3 align="left">🔥 My GitHub Streak:</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedAshraf2288&theme=radical" alt="GitHub Streak" />
-</div>
-
-###
-
 <h3 align="center">🌟 Let's Build Something Amazing Together! 🌟</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/github-snake.svg" />
-  </picture>
-</div>
-
-###
-
-<!-- Add some cool animations -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/animation.gif" alt="Cool Animation" />
-</div>
-
-<!-- Add a dynamic quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
-</div>
-
-<!-- Add a visitor counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AhmedAshraf2288/count.svg" alt="Visitor Count" />
-</div>
-
-<!-- Add a GitHub activity graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AhmedAshraf2288&theme=radical" alt="GitHub Activity Graph" />
-</div>
-
-<!-- Add a GitHub trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAshraf2288&theme=radical" alt="GitHub Trophy" />
-</div>
-
-<!-- Add a GitHub profile summary -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedAshraf2288&theme=radical" alt="GitHub Profile Summary" />
-</div>
-
-<!-- Add a GitHub contributions calendar -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/contributions.svg" alt="GitHub Contributions Calendar" />
-</div>
-
-<!-- Add a GitHub metrics -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/metrics.svg" alt="GitHub Metrics" />
-</div>
-
-<!-- Add a GitHub skyline -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/skyline.svg" alt="GitHub Skyline" />
-</div>
-
-<!-- Add a GitHub profile views -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/profile-views.svg" alt="GitHub Profile Views" />
-</div>
-
-<!-- Add a GitHub profile followers -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/followers.svg" alt="GitHub Profile Followers" />
-</div>
-
-<!-- Add a GitHub profile stars -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/stars.svg" alt="GitHub Profile Stars" />
-</div>
-
-<!-- Add a GitHub profile forks -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/forks.svg" alt="GitHub Profile Forks" />
-</div>
-
-<!-- Add a GitHub profile issues -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/issues.svg" alt="GitHub Profile Issues" />
-</div>
-
-<!-- Add a GitHub profile pull requests -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/pull-requests.svg" alt="GitHub Profile Pull Requests" />
-</div>
-
-<!-- Add a GitHub profile commits -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/commits.svg" alt="GitHub Profile Commits" />
-</div>
-
-<!-- Add a GitHub profile repositories -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/repositories.svg" alt="GitHub Profile Repositories" />
-</div>
-
-<!-- Add a GitHub profile gists -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/gists.svg" alt="GitHub Profile Gists" />
-</div>
-
-<!-- Add a GitHub profile stars received -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/stars-received.svg" alt="GitHub Profile Stars Received" />
-</div>
-
-<!-- Add a GitHub profile stars given -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/stars-given.svg" alt="GitHub Profile Stars Given" />
-</div>
-
-<!-- Add a GitHub profile followers received -->
-<div align="center">
-  <img src="https://github.com/AhmedAshraf2288/AhmedAshraf2288/blob/main/assets/followers-received.svg" alt="GitHub Profile Followers Received" />
-</
